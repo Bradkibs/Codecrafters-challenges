@@ -1,0 +1,3 @@
+[submodule "codecrafters-claude-code-go"]
+	path = codecrafters-claude-code-go
+	url = git@github.com:Bradkibs/Codecrafters-challenges.git
